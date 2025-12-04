@@ -10,8 +10,8 @@
         <version>3.3.2</version>
     </parent>
 
-    <groupId>com.api-biblioteca</groupId>
-    <artifactId>api-biblioteca</artifactId>
+    <groupId>com.api.biblioteca</groupId>
+    <artifactId>api.biblioteca</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>api-biblioteca</name>
     <description>API Biblioteca</description>
@@ -54,6 +54,8 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        
+   
 
     </dependencies>
 
